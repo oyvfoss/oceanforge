@@ -17,7 +17,15 @@ which may require a (free) user sign-up.
 ## DATASETS
 
 <details>
-<summary><strong>OCEAN MODELS AND REANALYSIS</strong></summary>
+<summary><strong>OCEAN MODELS AND REANALYSES</strong></summary>
+
+- **Copernicus global ocean reanalysis**: [ [Notebook](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.ipynb>) ] [[Static webpage](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.md>) ]
+
+- TOPAZ 4b Arctic and North Atlantic model (reanalysis?)
+
+- ECCO?
+
+- ORA S5?
 
 - **Barents 2.5** ice-ocean model: [ [Notebook](<datasets/ocean_models/barents_2_5/Accessing Barents 2.5 remotely.ipynb>) ] [[Static webpage](<datasets/ocean_models/barents_2_5/Accessing Barents 2.5 remotely.md>) ]
 
@@ -25,10 +33,33 @@ which may require a (free) user sign-up.
 
 <details>
 <summary><strong>ATMOSPHERE REANALYSIS</strong></summary>
+
+- ERA5
+- CARRA?
+
 </details>
+
+
 
 <details>
 <summary><strong>SEA ICE</strong></summary>
+
+<details>
+<summary> SEA ICE CONCENTRATION </summary>
+
+- **Bremen AMSR2**
+- **NSIDC**
+- **Met/Copernicus**
+
+</details>
+
+<details>
+<summary> SEA ICE DRIFT </summary>
+
+- **NSIDC**
+- **Met/Copernicus**
+
+</details>
 
 <details>
 <summary> SEA ICE THICKNESS </summary>
@@ -36,8 +67,20 @@ which may require a (free) user sign-up.
 - **SMOS L3 SIT** sea ice thickness: [ [Notebook](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.ipynb>) ] [[Static webpage](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.md>) ]
 </details>
 
+<details>
+<summary> SEA ICE AGE </summary>
+
+- **NSIDC**
+
+</details>
+
 </details>
 
 <details>
 <summary><strong>OTHER</strong></summary>
+- WAVES?
+- SST
+- SSS/Ocean colour
+- Runoff
+- Climatologies
 </details>
