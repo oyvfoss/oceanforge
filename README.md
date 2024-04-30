@@ -1,5 +1,8 @@
 # OceanForge
 
+
+<img src="misc/graphics/oceanforge_wide.png" alt="drawing" width="550"/>
+
 *A collection of publicly-accessible Earth science datasets and how to access them remotely*
 ___
 
