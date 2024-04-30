@@ -25,11 +25,17 @@ which may require a (free) user sign-up.
 
 <details>
 <summary><strong>ATMOSPHERE REANALYSIS</strong></summary>
-heeeøløp
 </details>
 
 <details>
 <summary><strong>SEA ICE</strong></summary>
+
+<details>
+<summary> SEA ICE THICKNESS </summary>
+
+- **SMOS L3 SIT** sea ice thickness: [ [Notebook](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.ipynb>) ] [[Static webpage](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.md>) ]
+</details>
+
 </details>
 
 <details>
