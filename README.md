@@ -21,7 +21,7 @@ which may require a (free) user sign-up.
 
 - **Copernicus global ocean reanalysis**: [ [Notebook](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.ipynb>) ] [[Static webpage](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.md>) ]
 
-- TOPAZ 4b Arctic and North Atlantic model (reanalysis?)
+- TOPAZ 4b Arctic and North Atlantic model [ [Notebook](<datasets/ocean_models/TOPAZ4b/TOPAZ 4b Arctic model.ipynb)> ]
 
 - ECCO?
 
