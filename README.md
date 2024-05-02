@@ -73,14 +73,43 @@ which may require a (free) user sign-up.
 - **NSIDC**
 
 </details>
+</details>
+
+
+<details>
+<summary><strong>OCEAN SURFACE FROM REMOTE SENSING</strong></summary>
+
+<details>
+<summary>SEA SURFACE TEMPERATURE</summary>
+
+- **NOAA OI SST V2** sea surface temperature: [ [Notebook](<datasets/ocean_surface_remote_sensing/oi_sst_v2/oiSST v2.ipynb>) ] [[Static webpage](<datasets/ocean_surface_remote_sensing/oi_sst_v2/oiSST v2.md>) ]
+
+</details>
+
+<details>
+<summary>SEA SURFACE HEIGHT</summary>
+
+</details>
+
+<details>
+<summary>SEA SURFACE SALINITY</summary>
+
+</details>
+
+<details>
+<summary>OCEAN COLOUR</summary>
+
+</details>
 
 </details>
 
 <details>
 <summary><strong>OTHER</strong></summary>
-- WAVES?
-- SST
-- SSS/Ocean colour
+
 - Runoff
 - Climatologies
+- Waves
+- Climate model forecasts
+- Bathymetry
+
 </details>
