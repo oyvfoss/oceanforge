@@ -19,15 +19,15 @@ which may require a (free) user sign-up.
 <details>
 <summary><strong>OCEAN MODELS AND REANALYSES</strong></summary>
 
-- **Copernicus global ocean reanalysis**: [ [Notebook](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.ipynb>) ] [[Static webpage](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.md>) ]
+- **Copernicus global ocean reanalysis**: [ [Notebook](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.ipynb>) ] 
 
-- TOPAZ 4b Arctic and North Atlantic model [ [Notebook](<datasets/ocean_models/TOPAZ4b/TOPAZ 4b Arctic model.ipynb>) ]
+- **TOPAZ 4b Arctic and North Atlantic model** [ [Notebook](<datasets/ocean_models/TOPAZ4b/TOPAZ 4b Arctic model.ipynb>) ]
 
 - ECCO?
 
 - ORA S5?
 
-- **Barents 2.5** ice-ocean model: [ [Notebook](<datasets/ocean_models/barents_2_5/Accessing Barents 2.5 remotely.ipynb>) ] [[Static webpage](<datasets/ocean_models/barents_2_5/Accessing Barents 2.5 remotely.md>) ]
+- **Barents 2.5** ice-ocean model: [ [Notebook](<datasets/ocean_models/barents_2_5/Accessing Barents 2.5 remotely.ipynb>) ] 
 
 </details>
 
@@ -64,7 +64,8 @@ which may require a (free) user sign-up.
 <details>
 <summary> SEA ICE THICKNESS </summary>
 
-- **SMOS L3 SIT** sea ice thickness: [ [Notebook](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.ipynb>) ] [[Static webpage](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.md>) ]
+- **SMOS L3 SIT** sea ice thickness: [ [Notebook](<datasets/sea_ice/sea_ice_thickness/SMOS_L3_SIT/SMOS sea ice thickness.ipynb>) ] 
+
 </details>
 
 <details>
@@ -82,7 +83,7 @@ which may require a (free) user sign-up.
 <details>
 <summary>SEA SURFACE TEMPERATURE</summary>
 
-- **NOAA OI SST V2** sea surface temperature: [ [Notebook](<datasets/ocean_surface_remote_sensing/oi_sst_v2/oiSST v2.ipynb>) ] [[Static webpage](<datasets/ocean_surface_remote_sensing/oi_sst_v2/oiSST v2.md>) ]
+- **NOAA OI SST V2** sea surface temperature: [ [Notebook](<datasets/ocean_surface_remote_sensing/oi_sst_v2/oiSST v2.ipynb>) ] 
 
 </details>
 
