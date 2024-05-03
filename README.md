@@ -21,7 +21,7 @@ which may require a (free) user sign-up.
 
 - **Copernicus global ocean reanalysis**: [ [Notebook](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.ipynb>) ] [[Static webpage](<datasets/ocean_models/copernicus_global_ocean/Copernicus Marine global ocean reanalysis product.md>) ]
 
-- TOPAZ 4b Arctic and North Atlantic model [ [Notebook](<datasets/ocean_models/TOPAZ4b/TOPAZ 4b Arctic model.ipynb)> ]
+- TOPAZ 4b Arctic and North Atlantic model [ [Notebook](<datasets/ocean_models/TOPAZ4b/TOPAZ 4b Arctic model.ipynb>) ]
 
 - ECCO?
 
@@ -47,7 +47,7 @@ which may require a (free) user sign-up.
 <details>
 <summary> SEA ICE CONCENTRATION </summary>
 
-- **Bremen AMSR2**
+- **Bremen AMSR2** - Not available remotely 
 - **NSIDC**
 - **Met/Copernicus**
 
@@ -56,7 +56,7 @@ which may require a (free) user sign-up.
 <details>
 <summary> SEA ICE DRIFT </summary>
 
-- **NSIDC**
+- **NSIDC** - Not available remotely (monthly available [here](https://icdc.cen.uni-hamburg.de/thredds/dodsC/icedrift_nh.html))
 - **Met/Copernicus**
 
 </details>
