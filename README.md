@@ -11,7 +11,7 @@ Each entry should contain a short description of the dataset and a **Jupyter not
 of how to access the data remotely using **Python**.
 
 Where possible, data are accessed using `xarray.open_dataset()`, which lazily loads the data without 
-acually entering it into memory. In some cases we also use custom APIs such as `copernicusmarine` 
+acually entering it into memory. In some cases we also use custom APIs such as `copernicusmarine` / `earthaccess` / `cdsapi` 
 which may require a (free) user sign-up.
 
 ## DATASETS
@@ -34,7 +34,7 @@ which may require a (free) user sign-up.
 <details>
 <summary><strong>ATMOSPHERE REANALYSIS</strong></summary>
 
-- ERA5
+- **ERA5** atmospheric reanalysis: [ [Notebook](<datasets/atmo_reanalysis/era5/ERA5.ipynb>) ] 
 - CARRA?
 
 </details>
@@ -114,3 +114,7 @@ which may require a (free) user sign-up.
 - Bathymetry
 
 </details>
+
+
+## APIs
+
