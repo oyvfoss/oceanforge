@@ -35,7 +35,7 @@ which may require a (free) user sign-up.
 <summary><strong>ATMOSPHERE REANALYSIS</strong></summary>
 
 - **ERA5** atmospheric reanalysis: [ [Notebook](<datasets/atmo_reanalysis/era5/ERA5.ipynb>) ] 
-- CARRA?
+- CARRA - Not available remotely.  
 
 </details>
 
