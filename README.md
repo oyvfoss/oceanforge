@@ -14,6 +14,8 @@ Where possible, data are accessed using `xarray.open_dataset()`, which lazily lo
 acually entering it into memory. In some cases we also use custom APIs such as `copernicusmarine` / `earthaccess` / `cdsapi` 
 which may require a (free) user sign-up.
 
+In addition, I may add some recipies for working with large gridded datasets.
+
 ## DATASETS
 
 <details>
@@ -116,5 +118,22 @@ which may require a (free) user sign-up.
 </details>
 
 
-## APIs
+#### APIs
+
+## RECIPIES FOR WORKING WITH GRIDDED GEOSPATIAL DATA *(TBW*)
+
+Want to incude some recipies for common methods  like:
+
+- Extracting spatial and temporal subsets.
+- Regridding from one lat/lon grid to another.
+- Interpolating onto a single-depth surface from a model grid with variable *z*-coordinates.
+- Parallelizing tasks with `dask`.
+- Computing gradient and curl.
+
+
+
+
+
+
+
 
